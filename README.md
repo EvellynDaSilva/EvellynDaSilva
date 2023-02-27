@@ -1,9 +1,10 @@
-### Hi there 👋
+### Olá me chamo Lyn 😊
 
 - 🔭 Estudando em SENAI JANDIRA
 - 🌱 Aprendendo back-end e front-end
 - 👯 Mais voltado para Java, JavaScript, Banco de Dados e Mobile
 - 🤔 Contate-me no email: evellyn.d.s.d@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/EvellynDaSilva">
@@ -17,4 +18,5 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
-
+  
+  
